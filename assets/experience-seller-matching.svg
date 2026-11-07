@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="116" viewBox="0 0 960 116" role="img" aria-labelledby="title desc">
+  <title id="title">Seller Matching</title>
+  <desc id="desc">Two record icons are connected to a shared match.</desc>
+  <rect x="1" y="1" width="958" height="114" rx="18" fill="#10242e" stroke="#385968" stroke-width="2"/>
+  <path d="M28 31v54" stroke="#72e6cc" stroke-width="4" stroke-linecap="round"/>
+  <text x="49" y="43" fill="#8aebd7" font-family="ui-monospace, monospace" font-size="17" font-weight="700" letter-spacing="2">BUILT FROM SCRATCH</text>
+  <text x="47" y="83" fill="#f1f8fc" font-family="system-ui, sans-serif" font-size="39" font-weight="700" letter-spacing="-1">Seller Matching</text>
+
+  <rect x="702" y="17" width="218" height="82" rx="11" fill="#0b1925" stroke="#355766" stroke-width="2"/>
+  <g fill="#112938" stroke="#6da5aa" stroke-width="2">
+    <rect x="740" y="29" width="44" height="23" rx="5"/>
+    <rect x="740" y="64" width="44" height="23" rx="5"/>
+  </g>
+  <path d="M749 41h13m5 0h8m-26 35h18m5 0h3" fill="none" stroke="#6da5aa" stroke-width="2" stroke-linecap="round"/>
+  <path d="M785 41h18q8 0 8 8v1q0 8 8 8h13m-47 18h18q8 0 8-8v-2q0-8 8-8"
+        fill="none" stroke="#72e6cc" stroke-width="2" stroke-linecap="round"/>
+  <rect x="832" y="41" width="45" height="34" rx="7" fill="#173b43" stroke="#72e6cc" stroke-width="2"/>
+  <path d="m847 58 5 5 10-10" fill="none" stroke="#a3f4e2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

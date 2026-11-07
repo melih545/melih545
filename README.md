@@ -22,8 +22,20 @@ Explore a sample financial workbook and forecast monthly revenue, expenses, or p
 
 At [Counterfake](https://counterfake.ai/brand-protection), I’ve worked on backend systems for online brand protection.
 
-- **Web data collection.** I designed and built a service to automate data collection from websites, validate extracted records, and handle incomplete or failed extractions.
-- **Seller matching.** I built an entity resolution service from the ground up, from normalizing inconsistent seller records to grouping likely duplicates.
-- **Domain protection.** I helped extend the backend for evaluating suspicious domains, working on automated analysis, APIs, and monitoring.
+![Web Data Collection · Designed and built](./assets/experience-web-collection.svg)
 
-These projects taught me to make failures visible, test how systems behave with incomplete inputs, and make automated decisions easier to investigate.
+I designed and built a service to collect data from websites, validate extracted records, and handle incomplete or failed extractions.
+
+> **What I learned** · Design for partial results and make failures easy to diagnose.
+
+![Seller Matching · Built from scratch](./assets/experience-seller-matching.svg)
+
+I built an entity resolution service from the ground up, from normalizing inconsistent seller records to grouping likely duplicates.
+
+> **What I learned** · Make matching decisions explainable when records are incomplete or inconsistent.
+
+![Domain Protection · Team contribution](./assets/experience-domain-protection.svg)
+
+I helped extend the backend for evaluating suspicious domains, contributing to automated analysis, APIs, and monitoring.
+
+> **What I learned** · Use monitoring to make failures visible and test how workflows behave when inputs are missing.
